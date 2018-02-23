@@ -1,4 +1,3 @@
-echo "Helloworld"
 echo "HelloHelen"
 
 
