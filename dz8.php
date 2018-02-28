@@ -27,6 +27,6 @@ while ($i < count($strArray)) {
     $newStr .= $strArray[$i];
     $i++;
 }
-
+$newStr = implode("-", $strArray);
 echo $newStr;
 ?>
