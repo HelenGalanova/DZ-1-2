@@ -6,6 +6,7 @@
 
 <?php
 define("CONSTABLE", "one");
+define("CONSTABLE", "one2");
 ?>
 
 <?php
