@@ -6,7 +6,7 @@
 
 <?php
 define("CONSTABLE", "one");
-define("CONSTABLE", "one2");
+define("CONSTABLE", "one2"); // Notice: Constant already defined
 ?>
 
 <?php
